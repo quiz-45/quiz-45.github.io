@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QYPYXGT59Q"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1GHMMW644R"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-QYPYXGT59Q');
+  gtag('config', 'G-1GHMMW644R');
 </script>
     <title>CEM Classroom - Games</title>
     <link rel="icon" href="dogfavi.png">
@@ -50,7 +50,7 @@
     <div id="particles-js"></div>
     <header class="header nav-container">
         <a href="/" class="dog-icon-link">
-            <img src="dog.png" class="header-img">
+            <img src="https://cdn-json.us/dog.png" class="header-img">
         </a>
        <h1 class="header-text header-title">CEM Classroom</h1>
         <button class="center-button nav-button-large right-fix" onclick="location.href='/'">Home</button>
